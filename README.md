@@ -8,7 +8,7 @@ B+트리 기반 DBMS 설계 및 구현
 이 프로젝트는 B+ Tree를 구현한 Java 프로그램입니다. B+ Tree는 데이터베이스나 파일 시스템에서 데이터 검색, 삽입, 삭제 등을 효율적으로 처리하는 데 사용되는 자료구조입니다.
 
 ## 설계 문서
-[B+tree설계문서.pdf](root폴더/P1_BPlusTree_Implementation/2019082279%20김영현.pdf)
+[B+tree설계문서.pdf](./P1_BPlusTree_Implementation/2019082279%20김영현.pdf)
 
 
 ## 환경 및 실행 방법
